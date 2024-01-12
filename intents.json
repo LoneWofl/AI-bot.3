@@ -15,8 +15,8 @@
      "context": [""]
     },
     {"tag": "query",
-     "patterns": ["What is Simplilearn?"],
-     "responses": ["Simplilearn is the popular online Bootcamp & online courses learning platform "],
+     "patterns": ["What is Python?"],
+     "responses": ["Python is a versatile, high-level programming language known for readability and simplicity, suitable for various applications. "],
      "context": [""]
     } 
 ]}
